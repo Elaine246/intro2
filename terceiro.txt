@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Teste 3 
 teste 4
 alterado 
-=======
-adicionando comentario Vivi teste 3
->>>>>>> f920fff49b9edfa2d1cbfa7b32f7a3139bb37aac
