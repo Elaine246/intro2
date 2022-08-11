@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Teste 1 
 alterados
+=======
+mais alguns comentários da Vivi
+>>>>>>> 7b17db955b328f5e991f5fba697df85f163beb66
