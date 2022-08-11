@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 teste 2
 alterado 
+=======
+adicionando outros comentários
+>>>>>>> f920fff49b9edfa2d1cbfa7b32f7a3139bb37aac
